@@ -1,6 +1,8 @@
 # Keyboard Event Bus PoC
 Temporary repo for a frontend keyboard event bus feature PoC
 
+> Demo: https://vulcancreative.github.io/keyboard-event-bus-poc
+
 Open [src/app.tsx](https://github.com/vulcancreative/keyboard-event-bus-poc/blob/172243d6fd26ff205aa8bafc9cce44c861604010/src/app.tsx) to see how to add a publisher and subscriber to the keyboard event bus.
 
 This PoC consists of several moving parts:
