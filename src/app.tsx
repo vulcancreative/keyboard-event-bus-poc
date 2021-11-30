@@ -13,8 +13,8 @@ function App() {
   useEffect(() => {
     // Add a publisher
     const publisher = KeyboardEventBus.instance.addPublisher(
-      "CMD_LEFT+SHIFT_LEFT+L",
-      [Key.CMD_LEFT, Key.SHIFT_LEFT, Key.L_LOWERCASE]
+      "CMD_LEFT+SHIFT_LEFT+P",
+      [Key.CMD_LEFT, Key.SHIFT_LEFT, Key.P_LOWERCASE]
     );
 
     // Add a subscriber
@@ -36,7 +36,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        {!activeKeys.length && <p>Press left Command + left Shift + L</p>}
+        {!activeKeys.length && <p>Press left Command + left Shift + P</p>}
         {!!activeKeys.length && <p>{activeKeys.join(" + ")}</p>}
       </header>
       <ToastContainer />
