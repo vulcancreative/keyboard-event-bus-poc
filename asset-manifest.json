@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/keyboard-event-bus-poc/static/css/main.7d17f7a7.chunk.css",
+    "main.js": "/keyboard-event-bus-poc/static/js/main.56baa085.chunk.js",
+    "main.js.map": "/keyboard-event-bus-poc/static/js/main.56baa085.chunk.js.map",
+    "runtime-main.js": "/keyboard-event-bus-poc/static/js/runtime-main.8bb66aa3.js",
+    "runtime-main.js.map": "/keyboard-event-bus-poc/static/js/runtime-main.8bb66aa3.js.map",
+    "static/css/2.58a45539.chunk.css": "/keyboard-event-bus-poc/static/css/2.58a45539.chunk.css",
+    "static/js/2.c4c4fbc5.chunk.js": "/keyboard-event-bus-poc/static/js/2.c4c4fbc5.chunk.js",
+    "static/js/2.c4c4fbc5.chunk.js.map": "/keyboard-event-bus-poc/static/js/2.c4c4fbc5.chunk.js.map",
+    "static/js/3.7a2dae35.chunk.js": "/keyboard-event-bus-poc/static/js/3.7a2dae35.chunk.js",
+    "static/js/3.7a2dae35.chunk.js.map": "/keyboard-event-bus-poc/static/js/3.7a2dae35.chunk.js.map",
+    "index.html": "/keyboard-event-bus-poc/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/keyboard-event-bus-poc/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.7d17f7a7.chunk.css.map": "/keyboard-event-bus-poc/static/css/main.7d17f7a7.chunk.css.map",
+    "static/js/2.c4c4fbc5.chunk.js.LICENSE.txt": "/keyboard-event-bus-poc/static/js/2.c4c4fbc5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/keyboard-event-bus-poc/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bb66aa3.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.c4c4fbc5.chunk.js",
+    "static/css/main.7d17f7a7.chunk.css",
+    "static/js/main.56baa085.chunk.js"
+  ]
+}
