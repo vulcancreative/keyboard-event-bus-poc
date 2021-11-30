@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/keyboard-event-bus-poc/static/css/main.7d17f7a7.chunk.css",
-    "main.js": "/keyboard-event-bus-poc/static/js/main.56baa085.chunk.js",
-    "main.js.map": "/keyboard-event-bus-poc/static/js/main.56baa085.chunk.js.map",
+    "main.js": "/keyboard-event-bus-poc/static/js/main.214c6f57.chunk.js",
+    "main.js.map": "/keyboard-event-bus-poc/static/js/main.214c6f57.chunk.js.map",
     "runtime-main.js": "/keyboard-event-bus-poc/static/js/runtime-main.8bb66aa3.js",
     "runtime-main.js.map": "/keyboard-event-bus-poc/static/js/runtime-main.8bb66aa3.js.map",
     "static/css/2.58a45539.chunk.css": "/keyboard-event-bus-poc/static/css/2.58a45539.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.58a45539.chunk.css",
     "static/js/2.c4c4fbc5.chunk.js",
     "static/css/main.7d17f7a7.chunk.css",
-    "static/js/main.56baa085.chunk.js"
+    "static/js/main.214c6f57.chunk.js"
   ]
 }
