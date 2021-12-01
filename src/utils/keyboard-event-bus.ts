@@ -43,7 +43,7 @@ class KeyboardEventBus {
 
   addPublisher(name: string, keys: Key[], target?: EBTarget): IPublisher {
     // Check if a publisher with same name is already exist
-    if (this.isExist(name)) {
+    if (this.doesExist(name)) {
       throw new Error("Publisher is already existed.");
     }
     // Generate unique id for publisher
@@ -76,7 +76,7 @@ class KeyboardEventBus {
     target?: EBTarget
   ): EBSub {
     // Check if publisher exist
-    if (!this.isExist(publisherNameOrId)) {
+    if (!this.doesExist(publisherNameOrId)) {
       throw new Error("Publisher does not exist.");
     }
 
@@ -128,7 +128,7 @@ class KeyboardEventBus {
     });
   }
 
-  isExist(publisherNameOrId: string): boolean {
+  doesExist(publisherNameOrId: string): boolean {
     const publisher = this._publishers.find((_pub) =>
       [_pub.name, _pub.id].includes(publisherNameOrId)
     );
